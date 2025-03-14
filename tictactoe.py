@@ -128,38 +128,6 @@ def minimax(board):
                 best_move = action
         return best_move
     
-'''
-def minimax(board):
-    """
-    Returns the optimal action for the current player on the board.
-    """
-    if terminal(board):
-        return None  # If terminal, there's no further action, just return None
-    
-    current_player = player(board)
-    
-    if current_player == X:
-        best_value = -float('inf')
-        best_move = None
-        for action in actions(board):
-            new_board = result(board, action)
-            value = min_value(new_board)
-            if value > best_value:
-                best_value = value
-                best_move = action
-        return best_move
-    else:
-        best_value = float('inf')
-        best_move = None
-        for action in actions(board):
-            new_board = result(board, action)
-            value = max_value(new_board)
-            if value < best_value:
-                best_value = value
-                best_move = action
-        return best_move
-
-'''
 
 def max_value(board):
     """
