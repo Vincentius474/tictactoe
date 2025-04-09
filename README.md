@@ -16,4 +16,6 @@ The algorithm alternates between these two players at each level of the tree
 # THIS IS AN IMPLEMENTATION OF MIN-MAX ALGORITHM IN TICTACTOE
 ![Screenshot 2025-03-14 142518](https://github.com/user-attachments/assets/3216ee5a-f13f-436c-8c9f-b4ee556dc1ac)
 
+<div align="center">
 ![Screenshot 2025-03-14 142147](https://github.com/user-attachments/assets/b17275e0-c879-4af2-acec-a75a79dcb498)
+</div>
