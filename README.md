@@ -2,6 +2,9 @@
 
 A Tic-Tac-Toe game where you play against an unbeatable computer opponent. The AI uses the **Minimax algorithm** to pick the optimal move every turn, and the game runs in a simple **Pygame** window.
 
+<img width="1918" height="1075" alt="screenshotA" src="https://github.com/user-attachments/assets/c1ea76d2-af56-4f40-984a-7a98e58461e7" />
+
+
 ## Features
 
 - Choose to play as **X** or **O**
